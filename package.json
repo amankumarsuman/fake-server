@@ -1,0 +1,16 @@
+{
+  "name": "mockserver",
+  "version": "1.0.0",
+  "description": "Fake Api",
+  "main": "server.js",
+  "scripts": {
+    "start":"node server.js",
+    "json:server": "json-server --watch db.json --port 3004",
+    "json:server:remote":"json-server http://jsonplaceholder.typicode.com/db"
+  },
+  "author": "Ritesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
