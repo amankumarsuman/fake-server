@@ -2,33 +2,92 @@
   "product": [
     {
       "id": "pd1",
-      "name": "peoduct1",
-      "vender": "alibaba",
+      "vender": "Apple",
+      "date":"01-02-1999",
+      "qty":"10",
+      "name":"Iphone 11 PRO",
+      "price":"2,20,000",
       "from": "a",
       "to": "z"
     },
     {
       "id": "pd2",
-      "name": "peoduct2",
-      "vender": "flipkart",
+      "vender": "Apple",
+      "date":"05-02-2000",
+      "qty":"10",
+      "name":"Iphone 6s",
+      "price":"1,20,000",
       "from": "b",
       "to": "y"
     },
     {
       "id": "pd3",
-      "name": "peoduct3",
-      "vender": "amazon",
+      "date":"01-05-2012",
+      "qty":"10",
+      "name":"Redmi note 10",
+      "price":"11,000",
+      "vender": "MI",
       "from": "c",
       "to": "x"
     },
-    {
-      "id": "pd6",
-      "name": "peoduct6",
-      "vender": "flipkart",
-      "from": "b",
-      "to": "y"
-    }
-  ],
+  
+  {
+    "id": "pd4",
+    "date":"17-05-2016",
+    "qty":"10",
+    "name":"Redmi 9 Pro",
+    "price":"9,000",
+    "vender": "MI",
+    
+    "from": "b",
+    "to": "y"
+  },
+  {
+    "id": "pd5",
+    "date":"17-08-2016",
+    "qty":"100",
+    "name":"samsung note 9 Pro",
+    "price":"26,000",
+    "vender": "samsung",
+    
+    "from": "b",
+    "to": "y"
+  },
+  {
+    "id": "pd6",
+    "date":"21-09-2016",
+    "qty":"100",
+    "name":"samsung note 11 Pro",
+    "price":"46,999",
+    "vender": "samsung",
+    
+    "from": "b",
+    "to": "y"
+  },
+  {
+    "id": "pd7",
+    "date":"30-11-2016",
+    "qty":"100",
+    "name":"One plus 9T",
+    "price":"56,000",
+    "vender": "One Plus",
+    
+    "from": "b",
+    "to": "y"
+  },
+  {
+    "id": "pd8",
+    "date":"30-11-2016",
+    "qty":"100",
+    "name":"One plus 10T",
+    "price":"99,999",
+    "vender": "One Plus",
+    
+    "from": "b",
+    "to": "y"
+  }
+
+],
   "vender": [
     {
       "id": "vd1",
